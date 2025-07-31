@@ -1,7 +1,6 @@
 ### Hey there 👋
 
 I'm Ron — a React developer who enjoys building clean UIs, solving logic puzzles with JS
-Mostly messing around with side projects, new libraries, and making things that don’t break (too often).
 
 ---
 
@@ -14,7 +13,7 @@ Mostly messing around with side projects, new libraries, and making things that 
 
 ---
 
-### 🧪 Getting my hands dirty with
+### 🧪 Getting My hands Dirty With
 
 - Trying animations with **Framer Motion**
 - AWS, docker
