@@ -14,18 +14,12 @@ Mostly messing around with side projects, new libraries, and making things that 
 
 ---
 
-### 🧪 Currently Playing With
+### 🧪 Getting my hands dirty with
 
 - Trying animations with **Framer Motion**
-- Building and breaking my **portfolio site**
+- AWS, docker
 - Learning a bit of UI/UX (design ≠ dev, I know 😅)
-
----
-
-### 🧠 Some Dev Thoughts
-
-- `useEffect` is unpredictable but I love the chaos
-- Dark mode is mandatory
+- Prompt Engineering
 
 ---
 
