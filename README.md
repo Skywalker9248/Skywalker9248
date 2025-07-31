@@ -24,7 +24,7 @@ I'm Ron — a React developer who enjoys building clean UIs, solving logic puzzl
 
 ### 🔗 You Can Find Me Here
 
-[GitHub](https://github.com/Skywalker9248) • [LinkedIn](https://www.linkedin.com/in/ron-sunny) • [Email](ronsunny19@example.com)
+[GitHub](https://github.com/Skywalker9248) • [LinkedIn](https://www.linkedin.com/in/ron-sunny) • <p><a href="mailto:ronsunny19@gmail.com">Send email</a></p>
 
 ---
 
