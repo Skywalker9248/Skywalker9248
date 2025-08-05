@@ -7,7 +7,7 @@ I'm Ron — a React developer who enjoys building clean UIs, solving logic puzzl
 ### 🛠️ Tech Stack I Mess With
 
 - **Frontend**: React, Next.js, Redux, TypeScript, Tailwind CSS, Material UI, Bootstrap
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, Firebase
 - **Tools**: Git, GitHub, VS Code
 - **Others**: REST APIs, Framer Motion, npm/yarn
 
