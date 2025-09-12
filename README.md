@@ -16,7 +16,7 @@ I'm Ron — a React developer who enjoys building clean UIs, solving logic puzzl
 ### 🧪 Getting My hands Dirty With
 
 - Trying animations with **Framer Motion**
-- Learning basic **AWS**
+- Learning basic **Cloud**
 - Learning a bit of UI/UX (design ≠ dev, I know 😅)
 - Prompt Engineering
 
