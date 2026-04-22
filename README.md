@@ -21,7 +21,7 @@ I work at the intersection of product thinking and engineering — I've owned fe
 ### [Deal or No Deal](https://github.com/Skywalker9248/dealOrNoDeal) — [Live](https://deal-or-no-deal-five.vercel.app)
 Fullstack implementation of the TV game show. Real-time game state via Socket.io, AI-powered banker using OpenRouter with a 5-model ping race + waterfall fallback, Hono backend with Zod validation and rate limiting.
 
-### [F1 Dashboard](https://github.com/Skywalker9248/f1-dashboard)
+### [F1 Dashboard](https://github.com/Skywalker9248/f1-dashboard) - [Live](https://f1-dashboard-blue.vercel.app)
 Personal F1 stats dashboard. Built with TypeScript, Hono on Cloudflare Workers.
 
 ### [Portfolio](https://ron-sunny.vercel.app)
