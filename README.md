@@ -1,35 +1,43 @@
-### Hey there 👋
+# Hey, I'm Ron 👋
 
-I'm Ron — a React developer who enjoys building clean UIs, solving logic puzzles with JS
+Frontend-leaning fullstack developer with 4 years of production experience building React apps people actually use.
 
----
-
-### 🛠️ Tech Stack I Mess With
-
-- **Frontend**: React, Next.js, Redux, TypeScript, Tailwind CSS, Material UI, Bootstrap, Node.js
-- **Backend**: Node.js, Express, Firebase
-- **Tools**: Git, GitHub, VS Code
-- **Others**: REST APIs, Framer Motion, npm/yarn
+I work at the intersection of product thinking and engineering — I've owned features end to end, written PRDs, built promotion engines from scratch, and shipped AI-integrated apps. I care about clean architecture, not just clean code.
 
 ---
 
-### 🧪 Getting My hands Dirty With
+## 🛠️ Stack
 
-- Trying animations with **Framer Motion**
-- Learning basic **Cloud**
-- Learning a bit of UI/UX (design ≠ dev, I know 😅)
-- Learning AI integration to Apps
-- Prompt Engineering
-
----
-
-### 🔗 You Can Find Me Here
-
-[GitHub](https://github.com/Skywalker9248) • [LinkedIn](https://www.linkedin.com/in/ron-sunny) • <a href="mailto:ronsunny19@gmail.com">Gmail</a> • <a href="https://ron-sunny.vercel.app/">Website</a> 
+**Frontend:** React, TypeScript, Vite, Tailwind CSS, Styled Components, Framer Motion  
+**Backend:** Node.js, Hono, Express, REST APIs, Socket.io  
+**AI:** OpenRouter, multi-model orchestration, prompt engineering  
+**Testing:** Playwright (E2E automation)  
+**Tools:** Git, Zod, Redis, Sidekiq, PostgreSQL
 
 ---
 
-<!-- fun little addon -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23fff" alt="Dev joke" />
-</p>
+## 🚀 Things I've Built
+
+### [Deal or No Deal](https://github.com/Skywalker9248/dealOrNoDeal) — [Live](https://deal-or-no-deal-five.vercel.app)
+Fullstack implementation of the TV game show. Real-time game state via Socket.io, AI-powered banker using OpenRouter with a 5-model ping race + waterfall fallback, Hono backend with Zod validation and rate limiting.
+
+### [F1 Dashboard](https://github.com/Skywalker9248/f1-dashboard)
+Personal F1 stats dashboard. Built with TypeScript, Hono on Cloudflare Workers.
+
+### [Portfolio](https://ron-sunny.vercel.app)
+Personal site — because every dev needs one.
+
+---
+
+## 💼 What I Do at Work
+
+At **Sapaad** (4 years), I work on a QR-based restaurant ordering platform used across the Middle East:
+- Built a promotion engine — a React context layer that runs promo validation logic on every cart change, pre-AI, from scratch
+- Own features from PRD to implementation: led the Menu Subcategories feature end to end
+- QA automation with Playwright across multiple order flow types
+
+---
+
+## 📬 Find Me
+
+[LinkedIn](https://www.linkedin.com/in/ron-sunny) • [Portfolio](https://ron-sunny.vercel.app) • [Gmail](mailto:ronsunny19@gmail.com)
